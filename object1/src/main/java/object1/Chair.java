@@ -33,3 +33,13 @@ public class Chair {
         this.legs = legs;
     }
 }
+
+/* Chair chair1 = new Chair("Wood","Brown",4);
+Chair chair2 = new Chair("Metal","Black",4);
+Chair chair3 = new Chair("Plastic","Red",4);
+
+
+Chair[] chairs = new Chair[3];
+chairs[0] = chair1;
+chairs[1] = chair2;
+chairs[2] = chair3;}*/

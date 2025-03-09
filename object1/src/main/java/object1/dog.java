@@ -1,4 +1,4 @@
-public class Dog {
+class Dog {
     private String name;
     private int age;
     private String breed;
@@ -33,3 +33,12 @@ public class Dog {
         this.breed = breed;
     }
 }
+/* Dog dog1 = new Dog("Scooby", 8, Mastiff);
+Dog dog2 = new  Dog("Sheru", 7, German Shepard);
+Dog dog3 = new Dog("Blacky", 2, Akita);
+
+Dog[] dogs = new Dog[3];
+Dog[0] = dog1;
+Dog[1] = dog2;
+Dog[2] = dog3;
+ */

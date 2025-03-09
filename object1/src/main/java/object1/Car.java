@@ -23,6 +23,16 @@ public class Car {
         return model;
     }
 
+     /*public static void main(String[] args) {
+        Car car1 = new Car("Toyota","Prius",2006, 100098);
+        Car car2 = new Car("Honda","Civic",2010, 2008959);
+        Car car3 = new Car("Nissan","Pathfinder",2015,5678997);
+
+        Car[] cars = new Car[3];
+        cars[0] = car1;
+        cars[1] = car2;
+        cars[2] = car3;*/
+
     public void setModel(String model) {
         this.model = model;
     }
